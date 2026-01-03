@@ -1,5 +1,5 @@
 # Snake-Game
-# Snake Game (C++ OOD)
+## Snake Game (C++ OOD)
 
 This project is an object-oriented implementation of the classic Snake game developed in C++. The game was built from the ground up using core OOD principles such as encapsulation, composition, and dynamic memory management.
 
